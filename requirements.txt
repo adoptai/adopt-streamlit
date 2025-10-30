@@ -1,0 +1,9 @@
+# Core Dependencies
+streamlit>=1.28.0
+python-dotenv>=1.0.0
+
+# Optional: LLM Enhancement
+groq>=0.4.0
+
+# Utilities
+typing-extensions>=4.8.0
